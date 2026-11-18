@@ -1,0 +1,2 @@
+Folder ini digunakan untuk menyimpan gambar barang yang diunggah melalui form aplikasi.
+Gambar dapat diunggah langsung dari halaman Tambah Barang atau Ubah Barang.
